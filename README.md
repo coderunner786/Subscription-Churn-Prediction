@@ -119,4 +119,4 @@ _Capstone_SubscriptionChurn/
 ├── /etl/                 # etl_pipeline.py
 ├── /analysis/            # analysis.ipynb
 ├── /dashboard/           # .twbx and /dashboard_screenshots/
-└── /final_story/         # final_memo.pdf
+
