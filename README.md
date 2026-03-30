@@ -51,7 +51,7 @@ Retention ROI: Which campaign_type (e.g., renewal_reminder vs. content_nudge) pr
 
 Channel Quality: Do users acquired through specific channels (e.g., paid_social vs. organic) exhibit different churn patterns?
 
-Capstone Project: Subscription Churn Analysis & Recovery
+# Subscription Churn Analysis & Recovery
 1. Project Overview
 This project identifies the root causes of a significant 35.4% churn spike observed in January 2026. Using a Python-based ETL pipeline and a Random Forest predictive model, we developed a targeted retention strategy to recover ₹20,930 in monthly revenue by identifying 660 High-Risk users.
 
